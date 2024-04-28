@@ -6,7 +6,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Commute?</title>
+        <title> Commute?</title>
       </Head>
       <Component {...pageProps} />
     </>
